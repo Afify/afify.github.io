@@ -4,7 +4,12 @@ title: pgp
 <article markdown="1">
 
 ### My PGP
+```sh
+Key fingerprint = 5F73 998F 3D7A DF0B 1F1C  82F2 E785 5210 AD90 62A0
 
+```
+
+```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF3hgtYBEAD250Vn57V+lwcYt57iXaq5ADDdwtC7GKsVocEo5AOO0M4qgeaW
@@ -67,6 +72,7 @@ lBNB6Zbujyq7SCXlYpN3EfxjW9FIpAyqdawzSPMhiEVKvaPMpV/I9Z4flIFoqtKa
 OdVfsBe/W142R0GIjm61BPXeYXHk7sqKNv2AMBFb88u3fqlEAeYAgLNE6l93X2hJ
 eOCP4zLvNX97wWKTKOt8A5Sm8hdiiDA28sa4TOPJKkD3
 =8SGC
-
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
 </article>
