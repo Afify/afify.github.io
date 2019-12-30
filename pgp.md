@@ -2,13 +2,9 @@
 title: pgp
 ---
 <article markdown="1">
-
-### My PGP
 ```sh
-Key fingerprint = 5F73 998F 3D7A DF0B 1F1C  82F2 E785 5210 AD90 62A0
-
+Fingerprint = 5F73 998F 3D7A DF0B 1F1C  82F2 E785 5210 AD90 62A0
 ```
-
 ```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -74,5 +70,4 @@ eOCP4zLvNX97wWKTKOt8A5Sm8hdiiDA28sa4TOPJKkD3
 =8SGC
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
 </article>
