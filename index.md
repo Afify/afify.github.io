@@ -9,7 +9,7 @@ title: Hassan Afify
 - [dwm], [dmenu], [st], [surf], [sent], [slock], [xbanish].
 - [mpv], [mupdf], [neomutt], [newsboat], [sxiv], [transmission], [vifm], [vim].
 - [My scripts], [My projects].
-<br>
+<br><br>
 
 ### See Also
 - Keep it stupid simple [KISS].
@@ -21,7 +21,7 @@ title: Hassan Afify
 - [Unix philosophy].
 </article>
 
-[Arch linux]:      <https://archlinux.org>
+[Arch]:            <https://archlinux.org>
 [Cat v]:           <http://harmful.cat-v.org/software>
 [Code Style]:      <https://suckless.org/coding_style>
 [Config ssh]:      <https://stribika.github.io/2015/01/04/secure-secure-shell.html>
