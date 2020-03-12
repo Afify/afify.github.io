@@ -12,27 +12,27 @@ title: Hassan Afify
 <br><br>
 
 ### See Also
-- Keep it stupid simple [KISS].
-- New Jersey style [Worse is better].
-- Suckless [Code Style].
-- Suckless [Philosophy].
-- [Cat v] carmful software.
-- [Config ssh].
-- [Unix philosophy].
+- [Cat v harmful software]
+- [Config ssh]
+- [KISS principle]
+- [Suckless Code Style]
+- [Suckless Philosophy]
+- [Unix philosophy]
+- [Worse is better]
 </article>
 
 [Arch]:            <https://archlinux.org>
-[Cat v]:           <http://harmful.cat-v.org/software>
-[Code Style]:      <https://suckless.org/coding_style>
-[Config ssh]:      <https://stribika.github.io/2015/01/04/secure-secure-shell.html>
-[KISS]:            <https://en.wikipedia.org/wiki/KISS_principle>
-[My projects]:     <https://github.com/Afify?tab=repositories>
-[My scripts]:      <https://github.com/Afify/dotfiles/tree/master/.scripts>
+[Cat v harmful software]: <http://harmful.cat-v.org/software>
+[Config ssh]:             <https://stribika.github.io/2015/01/04/secure-secure-shell.html>
+[KISS principle]:         <https://en.wikipedia.org/wiki/KISS_principle>
+[My projects]:     <https://repo.or.cz/projlist.cgi?name=a15881596efea75a1c46081fff8e7656>
+[My scripts]:      <https://repo.or.cz/dotfiles_afify.git/tree/HEAD:/.scripts>
 [OpenBSD]:         <https://openbsd.org>
-[Philosophy]:      <https://suckless.org/philosophy>
-[Unix philosophy]: <https://en.wikipedia.org/wiki/Unix_philosophy>
+[Suckless Code Style]:    <https://suckless.org/coding_style>
+[Suckless Philosophy]:    <https://suckless.org/philosophy>
+[Unix philosophy]:        <https://en.wikipedia.org/wiki/Unix_philosophy>
 [Void]:            <https://voidlinux.org/>
-[Worse is better]: <https://en.wikipedia.org/wiki/Worse_is_better>
+[Worse is better]:        <https://en.wikipedia.org/wiki/Worse_is_better>
 [dmenu]:           <https://tools.suckless.org/dmenu>
 [dunst]:           <https://dunst-project.org/>
 [dwm]:             <https://dwm.suckless.org>
