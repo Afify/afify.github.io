@@ -1,6 +1,6 @@
 html{background-color:#111 !important; color:#888 !important;margin: 0; height: 100%;}
 body{width:100%;margin-top:0px;margin-left:auto;margin-right:auto; font-size: 1em; font-family: monospace; display: flex;}
-nav { margin-right: 2em; padding-top: 1em; }
+nav { margin-left: 1em; margin-right: 2em; padding-top: 1em; }
 ul { margin: 0; padding-left: 1em; }
 ul.spaced-list > li { margin-bottom: 1ex; }
 hr { border: 1px solid red; margin: 2ex 0; }
